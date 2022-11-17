@@ -7,6 +7,7 @@
 body{
     font-family: 'Poppins', sans-serif;
     font-size: 20px;
+     line-height: 1.5;
     background-color: black;
 }
 
@@ -17,7 +18,7 @@ body{
 
 .left .cat{
     font-size: 15px;
-    color: #73808D;
+    color: #525453;
     padding-bottom: -2rem;
 }
 .leftcat{
@@ -27,7 +28,7 @@ body{
 }
 
 .leftcat .category{
-    color: #73808D;
+    color: #525453;
 }
 
 
@@ -79,7 +80,7 @@ font-size: 20px;
    
     height: 100%;
     display: block;
-    color: #73808D;
+    color: #525453;
 }
 
 .categ{
